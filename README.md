@@ -1,2 +1,2 @@
-# AidansClickerGame.github.io
+# clicker.github.io
  
